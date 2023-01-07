@@ -1,0 +1,61 @@
+/*global*/
+body{
+    font-family: 'Inter', sans-serif;
+    background-color:#0A0A0B ;
+    text-align: justify;
+}
+
+h1{
+    color: white;
+    line-height: 1.5;
+    font-family: 'Prata', serif;
+    text-align: left;
+} 
+h2{
+    
+    color: white;
+    line-height: 1.5;
+    font-family: 'Prata', serif;
+}
+h3{
+    
+    color: white;
+    font-family: 'Prata', serif;
+}
+p{
+    color: white;
+    opacity: .75;
+    line-height: 2;
+}
+
+.container-fluid{
+    padding: 48px;
+}
+
+/*press*.*/
+.press-img{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 100%;
+   padding: 12px;
+}
+
+.company-img{
+    display: block;
+    width: 100%;
+    padding: 12px;
+}
+
+
+/*about*/
+
+#about{
+background-color: #2E3038;
+}
+
+/*social media*/
+.social-media{
+    text-align: right;
+    
+}
