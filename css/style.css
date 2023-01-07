@@ -62,7 +62,7 @@ background-color: #2E3038;
 
 @media (max-width:992px) {
     .container-fluid{
-        padding: 12px;
+        padding: 24px;
     }
 
 }
