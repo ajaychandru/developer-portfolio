@@ -59,3 +59,8 @@ background-color: #2E3038;
     text-align: right;
     
 }
+
+@media (max-width:992px) {
+    .container-fluid{padding: 12px;}
+
+}
